@@ -6,7 +6,7 @@ CTAW Portfolio Data Analysis
         (1) “cases”, “deaths”: WHO Coronavirus Disease (COVID-19) Dashboard, https://covid19.who.int/table, Data last updated: 2020/11/10, 9:26am CET. All data collected on 2020/11/9.
         (2) “V196”, “V192”: World Values Survey Wave 6, https://www.worldvaluessurvey.org/WVSDocumentationWV6.jsp. Here we use WVS Wave 6, as Wave 7 doesn't provide data of perceptions about science and technology.
         (3) “pop”: World Bank: Population, total, https://data.worldbank.org/indicator/SP.POP.TOTL.
-        (4) “old_pr”: World Bank: Population ages 65 and above (% of total population) https://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS.
+        (4) “old_pr”: World Bank: Population ages 65 and above (% of total population), https://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS.
         (5) “GDP_C”, “CHE_C”, “CHE_GDP”: WHO: Global Health Observatory data repository, https://www.who.int/data/gho.
     * GitHub: https://github.com/PKU-Zyf/CTAW-portfolio.
 */
